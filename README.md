@@ -1,2 +1,2 @@
 # Contar++
-## Feito em C++ com GLFW.
+- Feito em C++ com GLFW.
